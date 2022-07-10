@@ -1,1 +1,1 @@
-sad
+www.patika.dev
