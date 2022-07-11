@@ -20,7 +20,7 @@
 ####
 
 ## 3.
-    1 değeri 5'den küçük olduğu için soluna yazıyoruz.
+    1 değeri 5'ten küçük olduğu için soluna yazıyoruz.
     
             7
            /   
@@ -52,7 +52,7 @@
 ####
 
 ## 6.
-    6 değeri 5'den büyük olduğu için sağına yazıyoruz.
+    6 değeri 5'ten büyük olduğu için sağına yazıyoruz.
     
             7
            / \  
@@ -88,7 +88,7 @@
 ####
 
 ## 9.
-    4 değeri 3'den büyük olduğu için sağına yazıyoruz.
+    4 değeri 3'ten büyük olduğu için sağına yazıyoruz.
     
             7
            / \  
@@ -102,7 +102,7 @@
 ####
 
 ## 10.
-    2 değeri 3'den küçük olduğu için soluna yazıyoruz.
+    2 değeri 3'ten küçük olduğu için soluna yazıyoruz.
 
             7
            / \  
